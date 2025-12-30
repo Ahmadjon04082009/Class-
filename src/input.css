@@ -7,3 +7,12 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+.bg1 {
+    background-image: url("./image_xurshed/background\ \(2\).png");
+    background-repeat: no-repeat;
+}
+
+.d1 {
+    border: 1px solid gray;
+}
+@import "tailwindcss";
