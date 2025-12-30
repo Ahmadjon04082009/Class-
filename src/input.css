@@ -1,4 +1,12 @@
 @import "tailwindcss";
+
+.bgimg
+{
+    background-image: url("./Fhoto/background\ \(3\).png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 .bg1 {
     background-image: url("./image_xurshed/background\ \(2\).png");
     background-repeat: no-repeat;
